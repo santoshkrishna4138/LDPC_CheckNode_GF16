@@ -1,4 +1,4 @@
-<h1> LDPC_GF16_CheckNode</h1>
+<h1> LDPC_CheckNode_GF16</h1>
 <p>
 This repository contains the implementation of the Check Node processing block of a GF(16) Non Binary-LDPC Decoder using the min-max algorithm.
 </p>

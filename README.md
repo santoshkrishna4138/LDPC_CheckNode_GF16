@@ -6,5 +6,6 @@ This repository contains the implementation of the Check Node processing block o
 <ul>
 <li><strong>src</strong>: This contains all the required source files of the design.</li>
   <li><strong>Simulation</strong>: This contains the simulation source of the design.</li>
-  
+  <li><strong>Results</strong>: This contains the results obtained post sythesis of the design.</li>
+  <li><strong>Contraints</strong>: This contains the contraint file for the design.</li>
 </ul>

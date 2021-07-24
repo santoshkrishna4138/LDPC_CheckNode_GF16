@@ -1,0 +1,4 @@
+DEVICE: XCVU13p-FSGA2577-1-i Virtex Ultrascale FPGA
+BRAM:57.14%        
+FF:3.4%          
+LUT:44.86%

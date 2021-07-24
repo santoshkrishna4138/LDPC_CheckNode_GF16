@@ -2,7 +2,9 @@
 <p>
 This repository contains the implementation of the Check Node processing block of a GF(16) Non Binary-LDPC Decoder using the min-max algorithm.
 </p>
-<h4>Description of files</h4>
+<h4>Description of Folders</h4>
 <ul>
-<li><strong>Timing_report.txt</strong>: This contains the final obtained timing summary which shows the 5 worst paths present in the design post synthesis.</li>
+<li><strong>src</strong>: This contains all the required source files of the design.</li>
+  <li><strong>Simulation</strong>: This contains the simulation source of the design.</li>
+  
 </ul>

@@ -4,7 +4,7 @@ This repository contains the implementation of the Check Node processing block o
 </p>
 <h4>Description of Folders</h4>
 <ul>
-<li><strong>src</strong>: This contains all the required source files of the design.</li>
+<li><strong>src</strong>: This contains all the required source files of the design. This folder also contains a tcl_command.sh file which is used to create the vivado project and also add the required ips to the design.</li>
   <li><strong>Simulation</strong>: This contains the simulation source of the design.</li>
   <li><strong>Results</strong>: This contains the results obtained post sythesis of the design.</li>
   <li><strong>Contraints</strong>: This contains the contraint file for the design.</li>
